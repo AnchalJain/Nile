@@ -36,7 +36,5 @@
   </div><!-- /.container-fluid -->
 </nav>
 </header><!-- header role="banner" -->
-</body>
-</html>
 
 
