@@ -21,13 +21,13 @@
                 <div class="carousel-inner">
                     <div class="item active">
                         <div class="row">
-                            <div class="col-sm-3"><a href="#x"><img src="assets/silver.jpeg" alt="Image" class="img-responsive"></a>
+                            <div class="col-sm-3 center-block"><a href="#x"><img src="assets/Cover.jpeg" style="height: 250px;" alt="Image" class="img-responsive center-block"></a>
                             </div>
-                            <div class="col-sm-3"><a href="#x"><img src="assets/samsung.jpeg" alt="Image" class="img-responsive"></a>
+                            <div class="col-sm-3"><a href="#x"><img src="assets/samsung.jpeg" alt="Image" class="img-responsive center-block"></a>
                             </div>
-                            <div class="col-sm-3"><a href="#x"><img src="assets/earphone.jpeg" alt="Image" class="img-responsive"></a>
+                            <div class="col-sm-3"><a href="#x"><img src="assets/earphone.jpeg" alt="Image" class="img-responsive center-block"></a>
                             </div>
-                            <div class="col-sm-3"><a href="#x"><img src="assets/moto.jpg" alt="Image" class="img-responsive"></a>
+                            <div class="col-sm-3"><a href="#x"><img src="assets/moto.jpg" alt="Image" class="img-responsive center-block"></a>
                             </div>
                         </div>
                         <!--/row-->
@@ -35,7 +35,7 @@
                     <!--/item-->
                     <div class="item">
                         <div class="row">
-                            <div class="col-sm-3"><a href="#x" class="thumbnail"><img src="assets/Cover.jpeg" alt="Image" class="img-responsive"></a>
+                            <div class="col-sm-3"><a href="#x" class="thumbnail"><img src="assets/silver.jpeg" style="height: 242px" alt="Image" class="img-responsive"></a>
                             </div>
                             <div class="col-sm-3"><a href="#x" class="thumbnail"><img src="assets/datacable.jpeg" alt="Image" class="img-responsive"></a>
                             </div>
@@ -62,15 +62,99 @@
                     </div>
                     <!--/item-->
                 </div>
-                <!--/carousel-inner--> <a class="left carousel-control" href="#myCarousel" data-slide="prev"><i class="fa fa-angle-left fa-2x" aria-hidden="true"></i></a>
+                <!--/carousel-inner--> <a class="left carousel-control" href="#myCarousel" data-slide="prev"><i class="fa fa-angle-left fa-4x" aria-hidden="true"></i></a>
 
-                <a class="right carousel-control" href="#myCarousel" data-slide="next"><i class="fa fa-angle-right fa-2x" aria-hidden="true"></i></a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next"><i class="fa fa-angle-right fa-4x" aria-hidden="true"></i></a>
             </div>
             <!--/myCarousel-->
         </div>
         <!--/well-->
     </div>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<div class="container wrapper">
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+    <div class="hovereffect">
+        <img class="img-responsive center-block" src="assets/luxury.jpeg" alt="">
+            <div class="overlay">
+                
+                    <a class="info" href="#">Quick View</a>
+            </div>
+    </div>
+</div>
+
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+    <div class="hovereffect">
+        <img class="img-responsive center-block" src="assets/holder.jpeg" alt="">
+            <div class="overlay">
+               
+                    <a class="info" href="#">Quick View</a>
+            </div>
+    </div>
+</div>
+
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+    <div class="hovereffect">
+        <img class="img-responsive center-block" src="assets/cc.jpeg" alt="">
+            <div class="overlay">
+               
+                    <a class="info" href="#">Quick View</a>
+            </div>
+    </div>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+    <div class="hovereffect">
+        <img class="img-responsive center-block" src="assets/iphonecover.jpeg" alt="">
+            <div class="overlay">
+                
+                    <a class="info" href="#">Quick View</a> 
+            </div>
+    </div>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+    <div class="hovereffect">
+        <img class="img-responsive center-block" src="assets/earph.jpeg" alt="">
+            <div class="overlay">
+                    <a class="info" href="#">Quick View</a>
+            </div>
+    </div>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+    <div class="hovereffect">
+        <img class="img-responsive center-block" src="assets/earphone.jpeg" alt="">
+            <div class="overlay">
+              
+                    <a class="info" href="#">Quick View</a> 
+            </div>
+    </div>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+    <div class="hovereffect">
+        <img class="img-responsive center-block" src="assets/Cover.jpeg" alt="">
+            <div class="overlay">
+                
+                    <a class="info" href="#">Quick View</a>
+            </div>
+    </div>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+    <div class="hovereffect">
+        <img class="img-responsive center-block" src="assets/samsung.jpeg" alt="">
+            <div class="overlay">
+               
+                    <a class="info" href="#">Quick View</a>
+            </div>
+    </div>
+</div>
+</div>
+
+
+<br>
 
 <script type="text/javascript">
     $(document).ready(function() {
